@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit and RecyclerView</string>
+        <string name="body">Text</string>
+</resources>
